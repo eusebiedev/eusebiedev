@@ -10,7 +10,7 @@
 
 ---
 
-### :woman_technologist: About Me : 
+### About Me : 
 - :telescope: I'm currently enrolled in the Full Stack Software Developer coding bootcamp at Epicodus! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :seedling: Exploring Google Cloud Skills Generative AI
