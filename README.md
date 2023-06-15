@@ -19,7 +19,7 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eusebie-siebenberg/)
 
-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eusebiedev&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eusebiedev&theme=radical&mode=weekly)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
