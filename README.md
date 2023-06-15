@@ -4,9 +4,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- 🌱 I’m currently learning React in Week 15 of school!
+- 🌱 It's React time in Week 15 of school!
   
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
+
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=bootstrap&text=true&animation=spin)
 
 ---
 
