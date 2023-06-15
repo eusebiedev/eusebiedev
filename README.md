@@ -11,12 +11,11 @@
 ---
 
 ### :woman_technologist: About Me : 
-I'm currently enrolled in the Full Stack Software Developer coding bootcamp at Epicodus! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm currently enrolled in the Full Stack Software Developer coding bootcamp at Epicodus! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Google Cloud Skills Generative AI
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time... I love to garden. Build things. Occasionally write experimental electronic music
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/eusebie-siebenberg/)
 
