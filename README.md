@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Welcome! I'm currently enrolled in the Full Stack Web Developer coding bootcamp at Epicodus!
 
 - 🌱 I’m currently learning:
-- 
+  
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 
 <!--
