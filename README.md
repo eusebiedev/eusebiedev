@@ -36,3 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40" />
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eusebiedev)](https://github.com/anuraghazra/github-readme-stats)
+
+
