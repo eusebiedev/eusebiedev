@@ -19,6 +19,8 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eusebie-siebenberg/)
 
+- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eusebiedev&theme=radical)](https://git.io/streak-stats)
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
