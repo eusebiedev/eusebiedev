@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning React!
 
-https://readme-components.vercel.app/api?component=logo&logo=react
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 
 <!--
 **eusebiedev/eusebiedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
