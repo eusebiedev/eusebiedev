@@ -4,16 +4,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
   <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="400" height="300"/>
 </div>
-<div align="center">
-  
-</div>
-
 - 🌱 It's React time in Week 15 of school!
   
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&text=true&animation=spin)
-
-
 
 ---
 
