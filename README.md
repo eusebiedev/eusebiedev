@@ -1,7 +1,10 @@
 ### Hi there 👋 Welcome!
 ---
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100%" height="100%"/>
 </div>
 
 - 🌱 It's React time in Week 15 of school!
@@ -15,10 +18,6 @@
 
 ### About Me : 
 - :telescope: I'm currently enrolled in the Full Stack Software Developer coding bootcamp at Epicodus! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100%" height="100%"/>
-</div><p><a href="https://giphy.com/gifs/usnationalarchives-vintage-computer-3ov9jNziFTMfzSumAw">via GIPHY</a></p>
 
 - :seedling: Exploring Google Cloud Skills Generative AI
 
