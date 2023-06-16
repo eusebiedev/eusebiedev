@@ -9,12 +9,14 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&text=true&animation=spin)
 
+
+
 ---
 
 ### About Me : 
 - :telescope: I'm currently enrolled in the Full Stack Software Developer coding bootcamp at Epicodus! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/embed/3ov9jNziFTMfzSumAw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></></div><p><a href="https://giphy.com/gifs/usnationalarchives-vintage-computer-3ov9jNziFTMfzSumAw">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/embed/3ov9jNziFTMfzSumAw"(https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif)" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></></div><p><a href="https://giphy.com/gifs/usnationalarchives-vintage-computer-3ov9jNziFTMfzSumAw">via GIPHY</a></p>
 
 - :seedling: Exploring Google Cloud Skills Generative AI
 
