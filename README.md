@@ -1,10 +1,10 @@
 ### Hi there 👋 Welcome!
 ---
 <div align="left">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100%" height="100%"/>
+<div align="right">
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="500" height="300"/>
 </div>
 
 - 🌱 It's React time in Week 15 of school!
