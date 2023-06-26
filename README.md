@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome!
 
-- 🌱 It's React time in Week 15 of school! But don't forget about C# & Javascript!
+- 🌱 It's React time in Week 16 of school! But don't forget about C# & Javascript!
   
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&text=true&animation=spin&fill=307958)
