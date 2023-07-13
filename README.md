@@ -1,6 +1,7 @@
 ### Hi there 👋 Welcome!
 
-- 🌱 It's React with Redux time in Week 17 of school! But don't forget about C# & Javascript!
+- Independent Capstone Projects have arrived! I'm super excited to build by application: BackYard Gleaners! https://github.com/eusebiedev/Backyard-Gleaners
+- 🌱 It's React with NoSQL time in Week 18 of school! But don't forget about C# & Javascript!
   
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&text=true&animation=spin&fill=307958)
