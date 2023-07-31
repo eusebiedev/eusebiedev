@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome!
 
-- Finished my Independent Capstone Projects @ Epicodus and its live on Render: Backyard Gleaners! 
+- Finished my Independent Capstone Project @ Epicodus and its live on Render: Backyard Gleaners! 
 --> https://github.com/eusebiedev/Backyard-Gleaners
 - 🌱 It's here! I made it! Internship interviews have begun!
   
