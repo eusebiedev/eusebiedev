@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome!
 
-- Independent Capstone Projects @ Epicodus have arrived! I'm super excited to build my application: Backyard Gleaners! 
-Stay tuned on this repo for developments --> https://github.com/eusebiedev/Backyard-Gleaners
-- 🌱 It's here! I made it! Independent Capstone project time in the final Week 20 of school!
+- Finished my Independent Capstone Projects @ Epicodus and its live on Render: Backyard Gleaners! 
+--> https://github.com/eusebiedev/Backyard-Gleaners
+- 🌱 It's here! I made it! Internship interviews have begun!
   
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&text=true&animation=spin&fill=307958)
