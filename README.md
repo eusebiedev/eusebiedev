@@ -13,7 +13,7 @@
 ### About Me : 
 
 
-- :seedling: Exploring Google Cloud Skills Generative AI
+- :seedling: Wordpress meets React meets VS Code!
 
 - :zap: In my free time... I love to garden. Build things. Occasionally write experimental electronic music
 
