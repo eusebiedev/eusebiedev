@@ -2,7 +2,7 @@
 
 - Finished my Independent Capstone Project @ Epicodus and its live on Render: Backyard Gleaners! 
 --> https://github.com/eusebiedev/Backyard-Gleaners
-- 🌱 It's here! I made it! Internships have begun!
+- :telescope: I'm currently a software developer intern at Advertising Solutions! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&text=true&animation=spin&fill=307958)
@@ -11,7 +11,7 @@
 ---
 
 ### About Me : 
-- :telescope: I'm currently a software developer intern at Advertising Solutions! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 
 - :seedling: Exploring Google Cloud Skills Generative AI
 
