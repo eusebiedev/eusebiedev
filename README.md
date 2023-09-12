@@ -13,7 +13,7 @@
 ### About Me : 
 
 
-- :seedling: Wordpress meets React meets VS Code!
+- :seedling: Currently building React front ends for PHP backends! 
 
 - :zap: In my free time... I love to garden. Build things. Occasionally write experimental electronic music
 
