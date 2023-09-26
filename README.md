@@ -13,7 +13,7 @@
 ### About Me : 
 
 
-- :seedling: Currently building React front ends for PHP backends! 
+- :seedling: Epicodus full stack developer graduate! Currently taking a 5 week Computer Science course and job hunting! 
 
 - :zap: In my free time... I love to garden. Build things. Occasionally write experimental electronic music
 
