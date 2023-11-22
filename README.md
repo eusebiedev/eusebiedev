@@ -2,12 +2,11 @@
 
 - Finished my Independent Capstone Project @ Epicodus and its live on Render: Backyard Gleaners! 
 --> https://github.com/eusebiedev/Backyard-Gleaners
-- Currently: Interning at SignedPic!   
-- :telescope: Completed a 5 week challenging and rewarding Software Developer internship at Advertising Solutions! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 Currently: Interning at SignedPic! Diggin deeper into React and working with wonderful developers! 
+- Aug->Sept '23: Completed a 5 week challenging and rewarding Software Developer internship at Advertising Solutions! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ---
 
 ### About Me : 
-
 
 - :seedling: Epicodus full stack developer graduate! Currently taking a 5 week Computer Science course and job hunting! 
 
@@ -34,6 +33,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40" />
 </div>
 <div align="left">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
   <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="400" height="300"/>
 </div>
