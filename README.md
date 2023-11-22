@@ -8,7 +8,7 @@
 
 ### About Me : 
 
-- :seedling: Epicodus full stack developer graduate! Currently taking a 5 week Computer Science course and job hunting! 
+- :seedling: Epicodus full stack developer graduate. 
 
 - :zap: In my free time... I love to garden. Build things. Occasionally write experimental electronic music
 
