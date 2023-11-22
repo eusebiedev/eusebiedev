@@ -2,6 +2,7 @@
 
 - Finished my Independent Capstone Project @ Epicodus and its live on Render: Backyard Gleaners! 
 --> https://github.com/eusebiedev/Backyard-Gleaners
+- Currently: Interning at SignedPic!   
 - :telescope: Completed a 5 week challenging and rewarding Software Developer internship at Advertising Solutions! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ---
 
