@@ -1,10 +1,12 @@
 ### Hi there 👋 Welcome!
 
-- Finished my Independent Capstone Project @ Epicodus and its live on Render: Backyard Gleaners! 
---> https://github.com/eusebiedev/Backyard-Gleaners
+After graduating from bootcamp last year, I find it's important to keep my skills fresh and up to date! So I've embarked on the 100 Days of Code challenge to stay focused on the dev dream, be productive, creative, and part of the community! Coding every day of the challenge that I can is sharpening my syntax, ability to grasp tasks and problem solve quicker, and my overall confidence and consistency is improving so much! 
+Check out my daily progress here and view directions on how to get started yourself:<br>
+https://github.com/eusebiedev/100-days-of-code
+
+### What I'm up to : 
 - 🔭 Currently: Interning at SignedPic! Diggin deeper into React and working with wonderful developers! 
 - Aug->Sept '23: Completed a 5 week challenging and rewarding Software Developer internship at Advertising Solutions! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
----
 
 ### About Me : 
 
