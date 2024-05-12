@@ -5,8 +5,9 @@ Check out my daily progress here and view directions on how to get started yours
 https://github.com/eusebiedev/100-days-of-code
 
 ### What I'm up to : 
-- 🔭 Currently: Interning at SignedPic! Diggin deeper into React and working with wonderful developers! 
-- Aug->Sept '23: Completed a 5 week challenging and rewarding Software Developer internship at Advertising Solutions! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Currently: Going through the freeCodeCamp online curriculum. Earned 2 certificates thus far! Deep in the Front End development course now. Highly recommend joinging the 2024 Discord edition of the 100 Days of Code Challenge. The community is wonderful, engaging and an amazing resource to contribute to and be a part of.
+- Oct '23 -> Jan '24: Completed a 2nd Internship at SignedPic! Dug deeper into React and worked with wonderful and inspiring developers! 
+- Aug '23 -> Sept '23: Completed a 5 week challenging and rewarding Software Developer internship at Advertising Solutions! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### About Me : 
 
