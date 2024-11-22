@@ -7,7 +7,7 @@ https://github.com/eusebiedev/100-days-of-code
 ### What I'm currently studying to build on the foundation I received from Epicodus:
 - udemy: React - The Complete Guide
 - Code with Mosh: The Complete React Testing Course
-- Continuing the freeCodeCamp online curriculum. Earned 2 certificates thus far! Deep in the Front End development course now. Highly recommend joinging the 2024 Discord edition of the 100 Days of Code Challenge. The community is wonderful, engaging and an amazing resource to contribute to and be a part of.
+- Continuing the freeCodeCamp online curriculum. Earned 2 certificates thus far! Deep in the Front End development course now. Highly recommend joining the 2024 Discord edition of the 100 Days of Code Challenge. The community is wonderful, engaging and an amazing resource to contribute to and be a part of.
 
 ### Post graduation certifications & more:
 - July '24, Code with Mosh: Mastering Javascript Unit Testing
