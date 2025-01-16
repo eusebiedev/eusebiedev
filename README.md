@@ -6,7 +6,7 @@ Junior Software Developer | React, JavaScript, C#, Node, Python | Tech for Good 
 - udemy: Python - The Complete Python Pro Bootcamp
 - udemy: React - The Complete Guide
 - Code with Mosh: The Complete React Testing Course
-- Continuing the freeCodeCamp online curriculum. Earned 2 certificates thus far! Deep in the Front End development course now. Highly recommend joining the 2024 Discord edition of the 100 Days of Code Challenge. The community is wonderful, engaging and an amazing resource to contribute to and be a part of.
+- Continuing the freeCodeCamp online curriculum. Earned 2 certificates thus far! Deep in the Front End development course now. Highly recommend joining the Discord edition of the 100 Days of Code Challenge. The community is wonderful, engaging and an amazing resource to contribute to and be a part of.
 
 ### Post graduation certifications & more:
 - July '24, Code with Mosh: Mastering Javascript Unit Testing
