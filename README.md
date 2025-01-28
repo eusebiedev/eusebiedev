@@ -3,6 +3,7 @@
 Junior Software Developer | React, JavaScript, C#, Node, Python | Tech for Good & Open Source Advocate
 
 ### What I'm currently studying to build on the foundation I received from Epicodus:
+- Code with Mosh - The Ultimate TypeScript Course
 - udemy: Python - The Complete Python Pro Bootcamp
 - udemy: React - The Complete Guide
 - Code with Mosh: The Complete React Testing Course
