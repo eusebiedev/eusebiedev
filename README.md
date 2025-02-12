@@ -3,12 +3,12 @@
 Junior Software Developer | React, JavaScript, C#, Node, Python | Tech for Good & Open Source Advocate
 
 ### 2025: Current weekly study plan to build on the foundation I received from Epicodus:
-- Codevolition - Nextjs, from beginner to advanced
+- Codevolution - Nextjs, from beginner to advanced
 - Code with Mosh - The Ultimate TypeScript Course
 - udemy: Python - The Complete Python Pro Bootcamp
 - udemy: React - The Complete Guide
 - Code with Mosh: The Complete React Testing Course
-(on my days off from Moda Center and a couple hours after work)
+- (on my days off from Moda Center and a couple hours after work every day)
 
 ### Post graduation certifications & more:
 - July '24, Code with Mosh: Mastering Javascript Unit Testing
