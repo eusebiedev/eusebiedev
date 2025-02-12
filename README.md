@@ -2,12 +2,13 @@
 
 Junior Software Developer | React, JavaScript, C#, Node, Python | Tech for Good & Open Source Advocate
 
-### What I'm currently studying to build on the foundation I received from Epicodus:
+### 2025: Current weekly study plan to build on the foundation I received from Epicodus:
+- Codevolition - Nextjs, from beginner to advanced
 - Code with Mosh - The Ultimate TypeScript Course
 - udemy: Python - The Complete Python Pro Bootcamp
 - udemy: React - The Complete Guide
 - Code with Mosh: The Complete React Testing Course
-- Continuing the freeCodeCamp online curriculum. Earned 2 certificates thus far! Deep in the Front End development course now. Highly recommend joining the Discord edition of the 100 Days of Code Challenge. The community is wonderful, engaging and an amazing resource to contribute to and be a part of.
+(on my days off from Moda Center and a couple hours after work)
 
 ### Post graduation certifications & more:
 - July '24, Code with Mosh: Mastering Javascript Unit Testing
