@@ -1,8 +1,16 @@
 ### Hi there 👋 Welcome!
 
-Junior Software Developer | React, JavaScript, C#, Node, Python | Tech for Good & Open Source Advocate
+I'm a Frontend Software Engineer specializing React, MUI, API Integrations | Helping teams turn ideas into web apps
 
-### 2025: Current weekly study plan to build on the foundation I received from Epicodus:
+### Since March '25, I've been working for a confidential client via subcontract: 
+- Collaborating on the development of a custom React + MUI web application designed to streamline internal data management workflows via dynamic API integrations and CSV data mapping tools.
+- Rebuilding a legacy PyQt desktop application into a modern, responsive web-based interface.
+- Implemented a modular dashboard layout, dynamic API request URL builder, and custom CSV uploader component.
+- Focused on improving UI/UX through MUI design principles and component-driven architecture.
+- Working closely with the lead developer on a proof-of-concept project preparing for an alpha release.
+- Managing code contributions via GitHub feature branching, pull request workflows, and collaborative code reviews.
+
+### 2025: My weekly study plan to build on the foundation I received from Epicodus:
 - Codevolution - Nextjs, from beginner to advanced
 - Code with Mosh - The Ultimate TypeScript Course
 - udemy: Python - The Complete Python Pro Bootcamp
