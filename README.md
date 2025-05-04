@@ -2,7 +2,7 @@
 
 I'm a Frontend Software Engineer specializing React, MUI, API Integrations | Helping teams turn ideas into web apps
 
-### Since March '25, I've been working for a confidential client via subcontract: 
+### 3/25-4/25 I worked for a confidential client via subcontract: 
 - Collaborating on the development of a custom React + MUI web application designed to streamline internal data management workflows via dynamic API integrations and CSV data mapping tools.
 - Rebuilding a legacy PyQt desktop application into a modern, responsive web-based interface.
 - Implemented a modular dashboard layout, dynamic API request URL builder, and custom CSV uploader component.
