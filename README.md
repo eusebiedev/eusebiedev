@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome!
 
-I'm a Frontend Software Engineer specializing React, MUI, API Integrations | Helping teams turn ideas into web apps
+I'm a Frontend Software Engineer specializing React, Next.js, Tailwind and API Integrations | Helping teams turn ideas into web apps
 
 ### 3/25-4/25 I worked for a confidential client via subcontract: 
 - Collaborating on the development of a custom React + MUI web application designed to streamline internal data management workflows via dynamic API integrations and CSV data mapping tools.
