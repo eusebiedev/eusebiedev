@@ -1,38 +1,77 @@
 ### Hi there 👋 Welcome!
 
-I'm a Frontend Software Engineer specializing React, Next.js, Tailwind and API Integrations | Helping teams turn ideas into web apps
+I'm a Frontend Software Engineer specializing in React, Next.js, TypeScript, and API Integrations | Helping teams turn ideas into web apps
 
-### 3/25-4/25 I worked for a confidential client via subcontract: 
-- Collaborating on the development of a custom React + MUI web application designed to streamline internal data management workflows via dynamic API integrations and CSV data mapping tools.
-- Rebuilding a legacy PyQt desktop application into a modern, responsive web-based interface.
-- Implemented a modular dashboard layout, dynamic API request URL builder, and custom CSV uploader component.
-- Focused on improving UI/UX through MUI design principles and component-driven architecture.
-- Working closely with the lead developer on a proof-of-concept project preparing for an alpha release.
-- Managing code contributions via GitHub feature branching, pull request workflows, and collaborative code reviews.
+---
 
-### 2025: My weekly study plan to build on the foundation I received from Epicodus:
-- Codevolution - Nextjs, from beginner to advanced
+### Current Work
+
+**Frontend Engineer - Coherent Computing (Contract)**  
+*September 2025 - Present*
+
+Building a production-ready web application for a quantum machine learning framework.
+
+- Leading React/Next.js/TypeScript frontend development through POC to deployment
+- Architected authentication system Auth.js (NextAuth), + Prisma + SQLite with security hardening
+- Implemented secure API proxy layer for Next.js ↔ FastAPI integration
+- Built interactive data visualization dashboard with CSV uploads and real-time processing, and downloadable analysis results
+- Delivered production build with full deployment documentation
+
+**Stack:** Next.js, React, TypeScript, Prisma, Auth.js (NextAuth), Tailwind CSS, Tremor, Recharts, FastAPI
+
+---
+
+### Previous Experience
+
+**Frontend Developer - Confidential Client (Subcontract)**  
+*March 2024 - April 2024*
+
+- Developed a custom React + MUI web application for internal data management workflows with dynamic API integrations and CSV data mapping tools
+- Rebuilt a legacy PyQt desktop application into a modern, responsive web-based interface
+- Implemented a modular dashboard layout, dynamic API request URL builder, and custom CSV uploader component
+- Focused on improving UI/UX through MUI design principles and component-driven architecture
+- Worked closely with the lead developer on a proof-of-concept project preparing for an alpha release
+- Managed code contributions via GitHub feature branching, pull request workflows, and collaborative code reviews
+
+---
+
+### Ongoing Learning (2024-2026)
+
+Continuing to build on my Epicodus foundation with:
+
+- Codevolution - Next.js, from beginner to advanced
 - Code with Mosh - The Ultimate TypeScript Course
-- udemy: Python - The Complete Python Pro Bootcamp
-- udemy: React - The Complete Guide
+- Udemy: Python - The Complete Python Pro Bootcamp
+- Udemy: React - The Complete Guide
 - Code with Mosh: The Complete React Testing Course
-- (on my days off from Moda Center and a couple hours after work every day)
 
-### Post graduation certifications & more:
-- July '24, Code with Mosh: Mastering Javascript Unit Testing
-- June '24, via IBM SkillsBuild: AI & Web Developer Fundamentals
-- Oct '23 -> Jan '24: Completed a 2nd Internship at SignedPic! Dug deeper into React and worked with wonderful and inspiring developers! 
-- Aug '23 -> Sept '23: Completed a 5 week challenging and rewarding Software Developer internship at Advertising Solutions! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+*(Studying on days off from Moda Center and a couple hours after work each day)*
 
-### About Me : 
+---
 
-- :seedling: Epicodus Full Stack Developer graduate specializing in building full-stack web applications.
+### Certifications & Milestones
 
-- :zap: In my free time... I love to garden. Build things. Occasionally write experimental electronic music
+- **July 2024** - Code with Mosh: Mastering Javascript Unit Testing
+- **June 2024** - IBM SkillsBuild: AI & Web Developer Fundamentals
+- **Oct 2023 - Jan 2024** - Completed 2nd Internship at SignedPic! Dug deeper into React and worked with wonderful and inspiring developers! 🎉
+- **Aug 2023 - Sept 2023** - Completed a 5-week challenging and rewarding Software Developer internship at Advertising Solutions!
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eusebie-siebenberg/)
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eusebiedev&theme=panda&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+### About Me
+
+- 🌱 Epicodus Full Stack Developer graduate specializing in building full-stack web applications
+- ⚡ In my free time... I love to garden. Build things. Occasionally write experimental electronic music
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eusebie-siebenberg/)
+
+---
+
+### Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML/CSS, Tailwind CSS, Material-UI, Tremor  
+**Backend/Data:** Node.js, Prisma, SQLite, NextAuth, FastAPI integration, Axios  
+**Tools:** Git, GitHub, VS Code, npm, Postman  
+**Currently Learning:** Python, Advanced TypeScript patterns, Testing frameworks
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
