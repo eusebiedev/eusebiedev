@@ -6,18 +6,18 @@ I'm a Frontend Software Engineer specializing in React, Next.js, TypeScript, and
 
 ### Current Work
 
-**Frontend Engineer - Coherent Computing (Contract)**  
+**Frontend Engineer - Cascade Quantum (Contract)**  
 *September 2025 - Present*
 
 Building a production-ready web application for a quantum machine learning framework.
 
-- Leading React/Next.js/TypeScript frontend development through POC to deployment
-- Architected authentication system Auth.js (NextAuth), + Prisma + SQLite with security hardening
+- Leading React/Next.js/TypeScript frontend development from POC to deployment
+- Secure Authentication via Clerk
 - Implemented secure API proxy layer for Next.js ↔ FastAPI integration
 - Built interactive data visualization dashboard with CSV uploads and real-time processing, and downloadable analysis results
 - Delivered production build with full deployment documentation
 
-**Stack:** Next.js, React, TypeScript, Prisma, Auth.js (NextAuth), Tailwind CSS, Tremor, Recharts, FastAPI
+**Stack:** Next.js, React, TypeScript, Prisma, Clerk, Tailwind CSS, Tremor, Recharts, FastAPI
 
 ---
 
