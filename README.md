@@ -6,6 +6,22 @@ I'm a Frontend Software Engineer specializing in React, Next.js, TypeScript, and
 
 ### Current Work
 
+**Freelance Web Developer - GR Digital Media (Contract)**  
+*September 2026 - Present*
+
+Building a static archive site for an independent video and sound artist, organizing finished work into themed collections with an emphasis on editorial presentation, accessibility, and long-term client maintainability.
+Targeting launch in Q4 2026.
+
+- Designed and developed the site from scratch using semantic HTML and vanilla CSS, with a lightweight design system built around CSS custom properties and a single shared stylesheet
+- Chose a zero-build, framework-free architecture so the client can maintain and publish the site independently using a text editor and GitHub Desktop
+- Created multiple exhibit layouts, including full-bleed Vimeo presentations with native details essays and responsive two-column collections for shorter works
+- Integrated Vimeo embeds to keep large media assets outside the repository while preserving responsive presentation and straightforward content updates
+- Building a reusable, documented template that allows the client to add new collections and exhibits without modifying the underlying layout system
+- Preparing GitHub Pages deployment and custom-domain/DNS configuration for a portable, zero-cost static hosting workflow
+- Documented architecture, design decisions, publishing workflow, and maintenance procedures for client handoff
+
+**Stack:** HTML5, CSS, Git, Github Pages, DNS
+
 **Frontend Engineer - Cascade Quantum (Contract)**  
 *September 2025 - Present*
 
